@@ -1,0 +1,42 @@
+{
+  "boards": [
+    {
+      "name": "BRD1",
+      "user": 2,
+      "starred": false,
+      "created": "2024-09-17",
+      "id": 1
+    }
+  ],
+  "cards": [],
+  "lists": [
+    {
+      "boardId": 1,
+      "name": "",
+      "order": 0,
+      "created": "2024-09-17",
+      "id": 1
+    },
+    {
+      "boardId": 1,
+      "name": "list 2",
+      "order": 1,
+      "created": "2024-09-17",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "raju@abc.com",
+      "password": "$2a$10$Yf5dCmftpXYCUJSsl732GuXGvml3QA0YVLPH5k79BLjz51T3NqjK6",
+      "welcomeEmail": false,
+      "id": 1
+    },
+    {
+      "email": "raju1@abc.com",
+      "password": "$2a$10$QFriaqgIeleN1zQglqPlSOh28RB7Cx39/UQHoKTlDYPRiA1lfok8W",
+      "welcomeEmail": false,
+      "id": 2
+    }
+  ]
+}
