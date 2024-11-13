@@ -8,7 +8,7 @@
 
 ## Pre-requisite
 
-Install the app, simply clone this project and
+Install the app, simply clone this project and execute the below commands
 
 1. `npm install`
 2. `npm start`
